@@ -1,0 +1,2 @@
+# Glinto
+Personal Startup site
